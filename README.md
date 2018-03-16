@@ -15,3 +15,8 @@ Milhouse Van Houten - Wikipedia
 WHO'S			WHOSE
 
 JEFFEREY		JEFFREY
+
+JEOFF			JEFF
+
+Barbra Streisand
+BARBRA STREISAND
