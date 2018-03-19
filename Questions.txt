@@ -1,0 +1,36 @@
+QUESTIONS
+19/02/2018
+
+
+bank2_quiz_line1
+
+
+Question
+max_len	30
+
+options
+max_len	17
+
+
+bank2_quiz_line1
+bank2_quiz_line2
+bank2_quiz_line3
+
+bank2_half1_quiz_line1
+
+extern const unsigned char bank2_quiz_line1[2][31];
+
+
+
+bank.h
+extern const unsigned char PREFIX[no_questions][max_len];
+
+#define				PREFIX_size (no_questions * (max_len+1))
+#define				PREFIX_bank (no_questions)
+
+
+bank.c
+const unsigned char PREFIX[no_questions][max_len] =
+{
+	{ max_len+1 bytes },
+}
