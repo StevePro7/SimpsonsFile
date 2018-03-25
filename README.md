@@ -69,3 +69,14 @@ Mindy Simmons
 
 Parser03
 E:\Steven\Personal\Simpson\Simpsons_Files\Parser\SimpsonsParser07_AnswersINP
+
+Parser02
+modify inp
+these are the source files
+run program to generate out
+
+Parser02 out becomes
+Parser03 in
+run this program
+get Pareser03 out and use as input to screen shot "Show"
+can get the answer column and if not zero use to indicate answer in screen
